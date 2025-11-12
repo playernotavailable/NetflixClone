@@ -1,3 +1,5 @@
+/*Footer.jsx*/
+
 import './Footer.css'
 import youtube_icon from '../../assets/youtube_icon.png'
 import twitter_icon from '../../assets/twitter_icon.png'
